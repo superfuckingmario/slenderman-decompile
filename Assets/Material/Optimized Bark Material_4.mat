@@ -55,6 +55,14 @@ Material:
         first:
           name: _SquashAmount
         second: 1
+      data:
+        first:
+          name: _BaseLight
+        second: .349999994
+      data:
+        first:
+          name: _AO
+        second: 2.4000001
     m_Colors:
       data:
         first:
