@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: tentacleblack
-  m_Shader: {fileID: 4800000, guid: 36bbf859c35f97946bd2943d6ca8430d, type: 1}
+  m_Shader: {fileID: 10600, guid: 0000000000000000f000000000000000, type: 0}
   m_SavedProperties:
     serializedVersion: 2
     m_TexEnvs:
@@ -36,7 +36,7 @@ Material:
       data:
         first:
           name: _Shininess
-        second: 0.078125
+        second: .078125
       data:
         first:
           name: _SquashAmount
@@ -45,11 +45,11 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: 0.09803922, g: 0.09803922, b: 0.09803922, a: 1}
+        second: {r: .0980392173, g: .0980392173, b: .0980392173, a: 1}
       data:
         first:
           name: _SpecColor
-        second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+        second: {r: .5, g: .5, b: .5, a: 1}
       data:
         first:
           name: _Scale

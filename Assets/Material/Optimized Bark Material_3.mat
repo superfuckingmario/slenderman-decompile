@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Optimized Bark Material_3
-  m_Shader: {fileID: 4800000, guid: ef61edc87eb5b5845829e3afd7aac681, type: 1}
+  m_Shader: {fileID: 10600, guid: 0000000000000000f000000000000000, type: 0}
   m_SavedProperties:
     serializedVersion: 2
     m_TexEnvs:
@@ -16,6 +16,13 @@ Material:
           name: _MainTex
         second:
           m_Texture: {fileID: 2800000, guid: ae739a6d8b7765749b33fc7a4da501e4, type: 1}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
       data:
@@ -32,7 +39,18 @@ Material:
           m_Texture: {fileID: 2800000, guid: 7efabc620fdf65a469b90a6446b37b56, type: 1}
           m_Scale: {x: 1, y: 1}
           m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _GlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
     m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .078125
       data:
         first:
           name: _SquashAmount
