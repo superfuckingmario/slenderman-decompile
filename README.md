@@ -3,6 +3,9 @@ Attempt at a 1-to-1 "decompilation" of *Slender: The Eight Pages* v0.9.7. (*deco
 
 # Requirements
 - [Unity 3.5.5f3](https://beta.unity3d.com/download/UnitySetup-3.5.5.exe)
+  
+# Known Issues
+- [ ] Configuration Banner is sized inaccurately. (We dont know what causes this, but we're working on it!)
 
 # Info
 - Project intended for use with the (upcoming) PlayStation 3 port of the game.
