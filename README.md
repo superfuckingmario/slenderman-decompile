@@ -15,4 +15,4 @@ Attempt at a 1-to-1 "decompilation" of *Slender: The Eight Pages* v0.9.7. (*deco
 # Licensing
 [License can be found here.](./LICENSE)
 <hr>
-[<img src="./Docs/you-are-a-fucking-bum.gif"></img>](https://www.youtube.com/watch?v=AwSFSoekGQU)
+<a href="https://www.youtube.com/watch?v=AwSFSoekGQU"><img src="./Docs/you-are-a-fucking-bum.gif"></img></a>
